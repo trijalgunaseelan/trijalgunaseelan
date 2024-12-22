@@ -1,3 +1,5 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
 Hi there! 👋 I'm Trijal Gunaseelan, a passionate entrepreneur and developer, currently building my startup, **Qynetic Labs**. I specialize in creating innovative cross-platform applications and responsive websites while deeply engaging in cybersecurity, backend development, databases, and server management.  
 I thrive on challenges that involve designing robust, secure, and scalable systems and have a strong interest in exploring cutting-edge technologies to deliver impactful and efficient solutions.<br>
@@ -13,7 +15,6 @@ I thrive on challenges that involve designing robust, secure, and scalable syste
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trijalgunaseelan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trijalgunaseelan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
