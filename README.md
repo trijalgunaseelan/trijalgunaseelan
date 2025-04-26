@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/trijalgunaseelan/" target="_blank">
+  <a href="https://www.linkedin.com/in/trijalpgunaseelan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/trijalpgunaseelan/" target="_blank">
@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trijalgunaseelan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=trijalpgunaseelan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
